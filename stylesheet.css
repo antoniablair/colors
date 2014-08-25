@@ -1,0 +1,105 @@
+
+h1 {
+	margin-left: 5px;
+	margin-bottom:5px;
+}
+
+div {
+	height:	120px;
+	width: 120px;
+	background-color:black;
+	color: black;
+	display: inline-block;
+	margin-top:5px;
+	margin-left: 5px;
+	position: relative;
+	background-image: url('mimitchi.gif');
+	background-position: center 120px;
+	background-repeat: no-repeat;
+	background-size: 60px;
+	-webkit-transition: .2s all ease;
+	transition: .2s all ease;
+}
+
+div:hover {
+	background-position: center center;
+}
+
+/* Image Files */
+
+/* Colors */
+
+
+.red {
+	background-color:#FA5858;
+}
+
+.red:active {
+	background-size: 120px;
+}
+
+.yellow {
+	background-color:#F4FA58;
+}
+
+.yellow:active {
+	background-size: 120px;
+}
+
+.blue {
+	background-color:#0080FF;
+}
+
+.blue:active {
+	background-size: 120px;
+}
+
+.lightblue {
+	background-color: #2ECCFA;
+}
+
+.lightblue:active {
+	background-size: 120px;
+}
+
+.pink {
+	background-color:#FE2E9A;
+}
+
+.pink:active {
+	background-size: 120px;
+}
+
+.purple {
+	background-color:#9A2EFE;
+}
+
+.purple:active {
+	background-size: 120px;
+}
+
+.green {
+	background-color:green;
+}
+
+.green:active {
+	background-size: 120px;
+}
+
+.tan {
+	background-color:#F79F81;
+}
+
+.tan:active {
+	background-repeat: repeat;
+}
+
+.lightgreen {
+	background-color:#01DF3A;
+}
+
+.lightgreen:active {
+	background-size: 120px;
+}
+
+
